@@ -21,7 +21,7 @@ module.exports = {
         name: `Khanhhub`,
         short_name: `khanhhub`,
         start_url: `/`,
-        background_color: `#ffa500`,
+        background_color: `#000`,
         theme_color: `#ffa500`,
         display: `standalone`,
         icon: `src/images/pepeK.png` // This path is relative to the root of the site.
