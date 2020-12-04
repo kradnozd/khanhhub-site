@@ -9,7 +9,7 @@ const CountDown = () => {
     minutes: 0,
     seconds: 0
   })
-  const target_date = new Date("Dec 1, 2020")
+  const target_date = new Date("Jan 9, 2021")
 
   const updateCountdown = () => {
     let current_date = new Date().getTime()
